@@ -22,7 +22,6 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
 - Fix bug where float values display more decimals than needed. 
 
 ## Video Walkthrough
@@ -35,7 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Attempted to reformat code to remove unneeded decimals from appearing. 
+Attempted to reformat code to remove unnecessary decimals from appearing. 
 
 ## License
 
